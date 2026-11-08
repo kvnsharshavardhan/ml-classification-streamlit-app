@@ -9,8 +9,8 @@ The objective of this project is to implement, evaluate, and compare five distin
 * **Target Variable**: Binary target label (`0` or `1`).
 
 ## c. GitHub Repository Link
-- Repository URL: `https://github.com/<your-username>/<your-repo-name>`
-- Live Streamlit App URL: `https://<your-app-name>.streamlit.app`
+- Repository URL: `https://github.com/kvnsharshavardhan/ml-classification-streamlit-app`
+- Live Streamlit App URL: `https://ml-classification-app-app-rp4q3e7e8auvqe4mbyyhgn.streamlit.app/`
 
 ## d. Models Used & Comparison Table
 
